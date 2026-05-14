@@ -23,7 +23,11 @@ The framework is presented as a conceptual research preprint intended for academ
 ## License
 
 MIT License
+## DOI / Zenodo
 
+Official Zenodo archive and DOI:
+
+https://doi.org/10.5281/zenodo.20180349
 ## Author
 
 Vardiampasis George
